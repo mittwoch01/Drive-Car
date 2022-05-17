@@ -7,3 +7,6 @@
     $(function () { });
     // 방법2
     $(document).ready(function () { });
+
+// jquery method .toggleClass();
+    // $(클래스에).toggleClass(내가 만들어놓은 움직임이 추가된다.);
